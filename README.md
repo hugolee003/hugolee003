@@ -13,7 +13,7 @@ I'm a Software Engineer, Content Creator, and Graphics Designer who is passionat
 - ⚡ When I'm not coding, I'm either playing Games like Call of Duty Mobile or I'm reading a tech article
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by sending an email to jamesegeonu003@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/14JemyepvPMe2HvX-EzePQK9P1w-bQaDw/view?usp=share_link) and contact me by sending an email to jamesegeonu003@gmail.com.
 
 ---
 
