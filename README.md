@@ -9,11 +9,11 @@ I'm a Software Engineer, Content Creator, and Graphics Designer passionate about
 
 - 😊 Pronouns: He/him
 - 💡  I'm an Alumni of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m also learning JavaScript, VueJs, TailwindCSS, Express and Typescript.
+- 🌱 I’m also learning JavaScript, VueJs, TailwindCSS, Express.Js, Next.Js and Typescript.
 - ⚡ When I'm not coding, I'm either playing Games like Call of Duty Mobile or I'm reading a tech article
 - 😊 I’m available for open-source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/14JemyepvPMe2HvX-EzePQK9P1w-bQaDw/view?usp=share_link) and contact me by sending an email to jamesegeonu003@gmail.com.
+- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Mid Level).
+- 📫 You can [view my resume](https://drive.google.com/file/d/1EK9yhYB3x_ik5dAHJSIO6My3TK3_jxe4/view?usp=sharing) and contact me by sending an email to jamesegeonu003@gmail.com.
 
 ---
 
@@ -24,9 +24,10 @@ I'm a Software Engineer, Content Creator, and Graphics Designer passionate about
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" alt="TailwindCSS" "width"40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" "width"40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJs" alt="ReactJs" width="40" height="40"/>&nbsp;
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
+
 
 ---
 
