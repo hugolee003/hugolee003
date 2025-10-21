@@ -9,7 +9,7 @@ I'm an AI Product Engineer who enjoys building amazing products.
 
 - 😊 Pronouns: He/him
 - 💡 I'm an Alumni of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m also learning JavaScript, VueJs, TailwindCSS, Express.Js, Next.Js and Typescript.
+- 🌱 Building with JavaScript, TailwindCSS, Express.Js, Next.Js and Typescript.
 - ⚡ When I'm not coding, I'm playing Call of Duty Mobile.
 - 😊 I’m available for open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or Product Engineer.
